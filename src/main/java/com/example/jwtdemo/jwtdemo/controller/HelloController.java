@@ -8,6 +8,6 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello, JWT Demo Created Sucessfully!";
+        return "Hello, JWT Demo Created !";
     }
 }
